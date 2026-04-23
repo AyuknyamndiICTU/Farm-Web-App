@@ -65,5 +65,28 @@
       "descriptionFr": "Description (Français)",
       "submit": "Publier le Produit"
     }
+  },
+  "Equipment": {
+    "title": "Location d'Équipement",
+    "dailyRate": "Tarif Journalier",
+    "deposit": "Dépôt",
+    "bookNow": "Réserver",
+    "condition": "État",
+    "noEquipment": "Aucun équipement disponible à la location.",
+    "rentNow": "Louer cet Équipement"
+  },
+  "Admin": {
+    "title": "Console d'Administration",
+    "users": "Gestion des Utilisateurs",
+    "listings": "Modération des Annonces",
+    "analytics": "Analyses de la Plateforme",
+    "verify": "Vérifier",
+    "ban": "Bannir",
+    "unban": "Débannir",
+    "stats": {
+      "totalUsers": "Utilisateurs Totaux",
+      "totalRevenue": "Revenu Total",
+      "pendingVerifications": "Vérifications en Attente"
+    }
   }
 }

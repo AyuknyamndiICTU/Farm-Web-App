@@ -65,5 +65,28 @@
       "descriptionFr": "Description (French)",
       "submit": "List Product"
     }
+  },
+  "Equipment": {
+    "title": "Equipment Rental",
+    "dailyRate": "Daily Rate",
+    "deposit": "Deposit",
+    "bookNow": "Book Now",
+    "condition": "Condition",
+    "noEquipment": "No equipment available for rent.",
+    "rentNow": "Rent this Equipment"
+  },
+  "Admin": {
+    "title": "Admin Console",
+    "users": "User Management",
+    "listings": "Listing Moderation",
+    "analytics": "Platform Analytics",
+    "verify": "Verify",
+    "ban": "Ban",
+    "unban": "Unban",
+    "stats": {
+      "totalUsers": "Total Users",
+      "totalRevenue": "Total Revenue",
+      "pendingVerifications": "Pending Verifications"
+    }
   }
 }
