@@ -42,5 +42,28 @@
     "noConversations": "No conversations yet.",
     "selectConversation": "Select a conversation to start chatting.",
     "typePlaceholder": "Type a message..."
+  },
+  "Dashboard": {
+    "title": "Farmer Dashboard",
+    "myProducts": "My Products",
+    "manageOrders": "Sales Orders",
+    "listNewProduct": "List New Product",
+    "noProducts": "You haven't listed any products yet.",
+    "stats": {
+      "totalSales": "Total Sales",
+      "activeListings": "Active Listings",
+      "pendingOrders": "Pending Orders"
+    },
+    "form": {
+      "titleEn": "Title (English)",
+      "titleFr": "Title (French)",
+      "price": "Price (XAF)",
+      "unit": "Unit (e.g. kg, bag)",
+      "quantity": "Available Quantity",
+      "category": "Category",
+      "descriptionEn": "Description (English)",
+      "descriptionFr": "Description (French)",
+      "submit": "List Product"
+    }
   }
 }

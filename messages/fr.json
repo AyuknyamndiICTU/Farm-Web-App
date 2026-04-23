@@ -42,5 +42,28 @@
     "noConversations": "Aucune conversation pour le moment.",
     "selectConversation": "Sélectionnez une conversation pour commencer à discuter.",
     "typePlaceholder": "Tapez un message..."
+  },
+  "Dashboard": {
+    "title": "Tableau de Bord Agriculteur",
+    "myProducts": "Mes Produits",
+    "manageOrders": "Commandes de Vente",
+    "listNewProduct": "Publier un Nouveau Produit",
+    "noProducts": "Vous n'avez pas encore publié de produits.",
+    "stats": {
+      "totalSales": "Ventes Totales",
+      "activeListings": "Annonces Actives",
+      "pendingOrders": "Commandes en Attente"
+    },
+    "form": {
+      "titleEn": "Titre (Anglais)",
+      "titleFr": "Titre (Français)",
+      "price": "Prix (XAF)",
+      "unit": "Unité (ex: kg, sac)",
+      "quantity": "Quantité Disponible",
+      "category": "Catégorie",
+      "descriptionEn": "Description (Anglais)",
+      "descriptionFr": "Description (Français)",
+      "submit": "Publier le Produit"
+    }
   }
 }
