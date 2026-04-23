@@ -17,6 +17,13 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
+      <head>
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#15803d" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+        <meta name="apple-mobile-web-app-title" content="AgriCM" />
+      </head>
       <body className={inter.className}>
         <NextIntlClientProvider messages={messages}>
           <div className="min-h-screen flex flex-col">
