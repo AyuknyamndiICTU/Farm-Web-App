@@ -29,5 +29,12 @@
     "town": "Ville",
     "submit": "Créer un compte",
     "alreadyHaveAccount": "Vous avez déjà un compte ? Se connecter"
+  },
+  "Products": {
+    "title": "Marché Agricole",
+    "search": "Rechercher des produits...",
+    "noProducts": "Aucun produit trouvé.",
+    "filters": "Filtres",
+    "allCategories": "Toutes les catégories"
   }
 }

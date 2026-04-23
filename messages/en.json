@@ -29,5 +29,12 @@
     "town": "Town",
     "submit": "Create Account",
     "alreadyHaveAccount": "Already have an account? Login"
+  },
+  "Products": {
+    "title": "Agricultural Marketplace",
+    "search": "Search products...",
+    "noProducts": "No products found.",
+    "filters": "Filters",
+    "allCategories": "All Categories"
   }
 }
