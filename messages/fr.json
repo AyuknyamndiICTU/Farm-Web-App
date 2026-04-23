@@ -17,5 +17,17 @@
     "orders": "Commandes",
     "chat": "Chat",
     "profile": "Profil"
+  },
+  "Auth": {
+    "register": "S'inscrire",
+    "login": "Se connecter",
+    "phone": "Numéro de téléphone",
+    "password": "Mot de passe",
+    "name": "Nom complet",
+    "role": "Je suis un...",
+    "region": "Région",
+    "town": "Ville",
+    "submit": "Créer un compte",
+    "alreadyHaveAccount": "Vous avez déjà un compte ? Se connecter"
   }
 }

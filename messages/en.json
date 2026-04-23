@@ -17,5 +17,17 @@
     "orders": "Orders",
     "chat": "Chat",
     "profile": "Profile"
+  },
+  "Auth": {
+    "register": "Register",
+    "login": "Login",
+    "phone": "Phone Number",
+    "password": "Password",
+    "name": "Full Name",
+    "role": "I am a...",
+    "region": "Region",
+    "town": "Town",
+    "submit": "Create Account",
+    "alreadyHaveAccount": "Already have an account? Login"
   }
 }
