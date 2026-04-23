@@ -2,6 +2,7 @@ import { Inter } from "next/font/google";
 import "../globals.css";
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
+import Navbar from '@/components/layout/Navbar';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -19,11 +20,10 @@ export default async function LocaleLayout({
       <body className={inter.className}>
         <NextIntlClientProvider messages={messages}>
           <div className="min-h-screen flex flex-col">
-            {/* Header / Navbar would go here */}
+            <Navbar />
             <main className="flex-grow">
               {children}
             </main>
-            {/* Footer would go here */}
           </div>
         </NextIntlClientProvider>
       </body>
