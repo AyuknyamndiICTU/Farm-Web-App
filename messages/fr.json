@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "title": "Bienvenue sur AgriConnect Cameroun",
+    "description": "Relier les agriculteurs, les acheteurs et les grossistes à travers le Cameroun.",
+    "getStarted": "Commencer",
+    "roles": {
+      "FARMER": "Agriculteur",
+      "BUYER": "Acheteur",
+      "WHOLESALER": "Grossiste",
+      "EQUIPMENT_OWNER": "Propriétaire d'équipement",
+      "ADMIN": "Admin"
+    }
+  },
+  "Navigation": {
+    "products": "Produits",
+    "equipment": "Équipement",
+    "orders": "Commandes",
+    "chat": "Chat",
+    "profile": "Profil"
+  }
+}

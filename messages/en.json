@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "title": "Welcome to AgriConnect Cameroon",
+    "description": "Connecting farmers, buyers, and wholesalers across Cameroon.",
+    "getStarted": "Get Started",
+    "roles": {
+      "FARMER": "Farmer",
+      "BUYER": "Buyer",
+      "WHOLESALER": "Wholesaler",
+      "EQUIPMENT_OWNER": "Equipment Owner",
+      "ADMIN": "Admin"
+    }
+  },
+  "Navigation": {
+    "products": "Products",
+    "equipment": "Equipment",
+    "orders": "Orders",
+    "chat": "Chat",
+    "profile": "Profile"
+  }
+}
