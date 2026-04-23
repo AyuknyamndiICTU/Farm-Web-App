@@ -36,5 +36,11 @@
     "noProducts": "No products found.",
     "filters": "Filters",
     "allCategories": "All Categories"
+  },
+  "Chat": {
+    "title": "Messages",
+    "noConversations": "No conversations yet.",
+    "selectConversation": "Select a conversation to start chatting.",
+    "typePlaceholder": "Type a message..."
   }
 }
